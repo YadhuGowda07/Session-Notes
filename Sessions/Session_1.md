@@ -56,3 +56,19 @@
         - `git pull` – Pull changes from a remote repository.
 
 ![alt text](Git-GitHub.png)
+
+### Step to initialise git repo
+
+1. `git init`: Initialize a repository.
+2. `git status`: Check the status of your repository.
+3. `git add .`: Stage all changes.
+4. `git commit -m "message"`: Save changes to history.
+5. `git log`: Shows all the commits
+
+### To upload the repo on github
+
+1. Create an account on github.
+2. Create a repo on github.
+3. In your local repo add the remote repo url: `git remote add orgin https://github.com/YadhuGowda07/Session-Notes.git`
+4. To check if the remote repo is created: `git remote -v`
+5. Push your code to github.
