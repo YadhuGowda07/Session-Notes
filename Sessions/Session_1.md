@@ -69,6 +69,6 @@
 
 1. Create an account on github.
 2. Create a repo on github.
-3. In your local repo add the remote repo url: `git remote add orgin https://github.com/YadhuGowda07/Session-Notes.git`
+3. In your local repo add the remote repo url: `git remote add origin https://github.com/YadhuGowda07/Session-Notes.git`
 4. To check if the remote repo is created: `git remote -v`
-5. Push your code to github.
+5. Push your code to github: `git push -u origin main`
