@@ -72,3 +72,8 @@
 3. In your local repo add the remote repo url: `git remote add origin https://github.com/YadhuGowda07/Session-Notes.git`
 4. To check if the remote repo is created: `git remote -v`
 5. Push your code to github: `git push -u origin main`
+
+### Clone a Github Repo
+
+ 1. to clone a repo: ` git clone https://github.com/YadhuGowda07/Session-Notes.git`
+ 
